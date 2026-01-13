@@ -1,4 +1,4 @@
-# Kafka acks=1 with RF=1: Unavailability Demo
+# Kafka acks=1: Unavailability Demo
 
 This repo explains and demonstrates why a topic (or partition) can become unavailable under clean leader elections when data is written with acks=1.
 
